@@ -10,7 +10,7 @@
   flex-direction: column;
   justify-items: center;
   align-items: center;
-  min-width: 1000px;
+  width: 1000px;
   font-family: 'Open Sans', sans-serif;
 }
 
