@@ -1,0 +1,55 @@
+#services-container {
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#our-services {
+  margin: 35px 0 25px 0;
+  font-size: 40px;
+}
+
+#services-container-jr {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+#residential-title {
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+#commercial-title {
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+#furniture-title {
+  margin: 15px 0;
+  font-size: 20px;
+}
+
+a {
+  margin: 5px 0 0 0;
+}
+
+#residential-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 35px 0;
+}
+
+#commercial-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 35px 0;
+}
+
+#furniture-list {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 35px 0;
+}

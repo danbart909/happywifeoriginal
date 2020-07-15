@@ -1,0 +1,95 @@
+#booknow-container {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+}
+
+#booknow-title {
+  margin: 35px 0 25px 0;
+  font-size: 40px;
+}
+
+#booknow-header {
+  margin: 20px 0 25px 0;
+  font-size: 18px;
+}
+
+#booknow-content {
+  margin: 5px 0 40px 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#booknow-content span {
+  margin: 0 0 25px 0;
+}
+
+#booknow-contact-form {
+  outline: none;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: 85%; */
+}
+
+#booknow-fieldset {
+  width: 90%;
+  border: none;
+}
+
+#booknow-nameinput {
+  background-color: #fed152;
+  width: 100%;
+  height: 60px;
+  padding: 0 0 0 10px;
+  margin: 15px 0 15px 0;
+  box-shadow: 0px 1px 1px 1px;
+  font-size: 18px;
+}
+
+#booknow-emailinput {
+  background-color: #fed152;
+  width: 100%;
+  height: 60px;
+  padding: 0 0 0 10px;
+  margin: 20px 0 15px 0;
+  box-shadow: 0px 1px 1px 1px;
+  font-size: 18px;
+}
+
+#booknow-phoneinput {
+  background-color: #fed152;
+  width: 100%;
+  height: 60px;
+  padding: 0 0 0 10px;
+  margin: 20px 0 15px 0;
+  box-shadow: 0px 1px 1px 1px;
+  font-size: 18px;
+}
+
+#booknow-contentinput {
+  background-color: #fed152;
+  width: 100%;
+  height: 200px;
+  padding: 10px 15px 5px 10px;
+  margin: 20px 15px 25px 0;
+  box-shadow: 0px 1px 1px 1px;
+  font-size: 18px;
+}
+
+/* #CF-home-contentinput::placeholder {
+  padding: 5px 0 5px 0;
+} */
+
+#booknow-submit {
+  background-color: #fed152;
+  width: 100%;
+  height: 60px;
+  margin: 15px 0 5px 0;
+  font-weight: bold;
+  box-shadow: 0px 1px 1px 1px;
+  font-size: 18px;
+}
