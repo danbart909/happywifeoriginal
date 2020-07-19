@@ -652,6 +652,10 @@ button span {
   margin: 0 1.5vw;
 }
 
+#home-text-bottom-2 span {
+  margin: 15px 0 0 0;
+}
+
 #home-text-bottom-3 {
   width: 33%;
   /* height: 200px; */

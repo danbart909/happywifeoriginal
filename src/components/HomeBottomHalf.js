@@ -53,6 +53,7 @@ export default class HomeBottomHalf extends Component {
                 <span>We strive to be as straight forward and open as possible. You can trust us to charge only for as much as you use.</span>
               </div>
               <div id='home-text-bottom-2'>
+                <span>"But everything should be done in a fitting and orderly way." 1 Cor 14:40</span>
                 <span>We change into clean sneakers before entering your home. Those sneakers don't touch anything but hardwood, carpet, and concrete.</span>
               </div>
               <div id='home-text-bottom-3'>
